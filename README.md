@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RenuSree22491
-- 👀 I’m interested in Artificial intelligence and machine learning..
+- 👀 I’m pursuing AIML in bachelor's degree.
 - Aspiring FULL STACK DEVELOPER 
 - 🌱 I’m currently learning python, SQL, java etc.,
 - 💞️ I’m looking to collaborate on front-end web development projects(HTML ,CSS, JS) 
