@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RenuSree22491
 - 👀 I’m interested in Artificial intelligence and machine learning..
-- Aspiring ML engineer 
-- 🌱 I’m currently learning python, SQL etc.,
-- 💞️ I’m looking to collaborate on front-end web development projects(HTML , CSS) and ML projects 
+- Aspiring FULL STACK DEVELOPER 
+- 🌱 I’m currently learning python, SQL, java etc.,
+- 💞️ I’m looking to collaborate on front-end web development projects(HTML ,CSS, JS) 
 - 📫 How to reach me linkedin 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
